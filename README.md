@@ -1,6 +1,6 @@
 # Open Enterprise Agentic Architecture
 
-> **Working name.** An open, modular reference architecture for connecting people, business processes, enterprise applications, AI capabilities and agents—while preserving local team autonomy and enterprise-wide visibility, governance and economic control.
+> An open, modular reference architecture for connecting people, business processes, enterprise applications, AI capabilities and agents—while preserving local team autonomy and enterprise-wide visibility, governance and economic control.
 
 **Status:** Research and architecture definition  
 **Project type:** Open-source reference architecture and, over time, deployable reference implementations  
